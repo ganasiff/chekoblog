@@ -1,0 +1,2 @@
+# chekoblog
+Django test blog
